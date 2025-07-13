@@ -30,3 +30,4 @@ This project demonstrates the practical use of Natural Language Processing in bu
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/54c7bfb9-5468-4b1e-b2e7-107534fd0329" />
